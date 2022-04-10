@@ -1,0 +1,23 @@
+/*p this makes the box move to the right
+
+{
+    border: 5px solid red;
+    margin-left: auto;
+    margin-right: 0.5rem;
+    width: 50%;
+    text-align: center;
+}
+
+at given width, margin:auto makes the box take all space as much as posible. In this case "centered" 
+p {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+*/
+
+
+
+
+
+
